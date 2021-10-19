@@ -11,5 +11,10 @@ namespace BulkyBooks.Utilities
         public const string Proc_CoverType_Update = "usp_UpdateCoverType";
         public const string Proc_CoverType_Delete = "usp_DeleteCoverType";
         public const string Proc_CoverType_Create = "usp_CreateCoverType";
+
+        public const string Role_User_Indi = "Individual Customer";
+        public const string Role_User_Comp = "Company Customer";
+        public const string Role_Admin = "Admin";
+        public const string Role_Employee = "Employee";
     }
 }

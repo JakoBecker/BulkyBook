@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook", "BulkyBook\BulkyBook.csproj", "{76BC07CC-5C6F-465F-BAF0-5DAE2CA440FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook", "BulkyBook\BulkyBook.csproj", "{76BC07CC-5C6F-465F-BAF0-5DAE2CA440FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.DataAccess", "BulkyBook.DataAccess\BulkyBook.DataAccess.csproj", "{3420DDBD-C26F-4091-A038-A05ACBEAABFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook.DataAccess", "BulkyBook.DataAccess\BulkyBook.DataAccess.csproj", "{3420DDBD-C26F-4091-A038-A05ACBEAABFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.Models", "BulkyBook.Models\BulkyBook.Models.csproj", "{2A572302-C035-41C6-AFFF-C58D0B77090E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook.Models", "BulkyBook.Models\BulkyBook.Models.csproj", "{2A572302-C035-41C6-AFFF-C58D0B77090E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBooks.Utilities", "BulkyBooks.Utilities\BulkyBooks.Utilities.csproj", "{8B64E8DB-4F58-48CE-A6E8-E727170FFE9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBooks.Utilities", "BulkyBooks.Utilities\BulkyBooks.Utilities.csproj", "{8B64E8DB-4F58-48CE-A6E8-E727170FFE9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
